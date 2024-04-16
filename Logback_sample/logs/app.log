@@ -1,0 +1,3 @@
+10:15:55.107 [main] INFO  org.example.Main -- This is Just information
+10:15:55.144 [main] ERROR org.example.Main -- This is error
+10:15:55.145 [main] WARN  org.example.Main -- This is Warning
